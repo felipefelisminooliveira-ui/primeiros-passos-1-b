@@ -1,3 +1,10 @@
 header{
     background-color: rgb(231, 231, 221);
+ color:azure; 
+text-align: center;
+}
+main{
+    background-color: blue;
+    color:aliceblue;
+    text-align: center;
 }
